@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News app - Guardian</string>
+    <string name="no_news">There are no news</string>
+    <string name="no_internet_connection">Sorry, there is no internet connection available. Tap to retry.</string>
+</resources>
